@@ -1,4 +1,4 @@
-git push -u origin main"use client";
+"use client";
 
 import { useContext, useState, useEffect } from "react";
 import AuthContext from "@/store/auth-context";
