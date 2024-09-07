@@ -85,7 +85,7 @@ const Navbar = () => {
             priority
             className={classes.logo}
           />
-          <div className={classes["app-title"]}>Shopmore</div>
+          <div className={classes["app-title"]}>eazzyshop</div>
         </Link>
         <div className={classes["navbar-right"]}>
           <div className={`${classes.search} ${classes["navbar-option"]}}`}>

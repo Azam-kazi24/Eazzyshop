@@ -10,7 +10,7 @@ const DiscountBanner = () => {
       <div className={classes["banner-content"]}>
         <div>
           <div className={classes["banner-title"]}>Get 5% Cash Back</div>
-          <div className={classes["banner-description"]}>on Shopmore.com</div>
+          <div className={classes["banner-description"]}>on eazzyshop.com</div>
           <button className={classes["banner-button"]}>Learn more</button>
         </div>
         <div className={classes["disc-banner-image-container"]}>
